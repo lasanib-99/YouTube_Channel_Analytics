@@ -71,5 +71,5 @@ What factors contribute most to the earnings of top YouTube channels, and how do
 ## How to Use
 
 1. Clone this repository to your local machine using Git.
-git clone
-2. Explore the Analysis 'Youtube_Metrics.pbix' to understand the data processing and visualization.
+git clone https://github.com/lasanib-99/YouTubeChannelAnalytics.git
+2. Explore the project 'Youtube_Metrics.pbix' to understand the data processing and visualization.
