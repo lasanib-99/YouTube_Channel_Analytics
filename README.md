@@ -1,17 +1,8 @@
-# Youtube Channel Analytics
+# YouTube Channel Analytics
 Power BI Project analyzing the statistics of the most subscribed YouTube channels to uncover key success factors.
 
 ## Research Problem:
 What factors contribute most to the earnings of top YouTube channels, and how do these factors vary across different types of channels and countries?
-
-## Potential Use Cases
-
-- **YouTube Analytics:** Gain valuable insights into the success factors of top YouTube channels and understand what sets them apart from the rest.
-- **Content Strategy:** Discover the most popular categories and upload frequencies that resonate with audiences.
-- **Regional Influencers:** Identify influential YouTube creators from different countries and analyze their impact on a global scale.
-- **Earnings Analysis:** Explore the correlation between channel performance and estimated earnings.
-- **Geospatial Visualization:** Visualize the distribution of successful YouTube channels on a world map and uncover geographical trends.
-- **Trending Topics:** Investigate how certain categories gain popularity over time and correlate with world events.
 
 ## 'Global YouTube Statistics' Dataset:
 
@@ -61,6 +52,7 @@ What factors contribute most to the earnings of top YouTube channels, and how do
   - `Gross tertiary education enrollment (%)` replaced with “55.8” - mean
  
 ## Objectives of the Study
+### Targeting both YouTube content creators and the Managerial level
 
 - Gain valuable insights into the success factors of top YouTube channels and understand what sets them apart from the rest.
 - Discover the most popular categories and upload frequencies that resonate with audiences.
@@ -75,4 +67,3 @@ What factors contribute most to the earnings of top YouTube channels, and how do
 - Channels with a large and engaged audience tend to earn more (subscribers, views, uploads).
 - Regularly uploading new content can help channels maintain audience interest, improve visibility in YouTube's algorithm, and increase overall watch time.
 - A large subscriber base indicates a loyal audience that is likely to engage with the channel's content and leads to higher earnings.
-- 
