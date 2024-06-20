@@ -67,3 +67,9 @@ What factors contribute most to the earnings of top YouTube channels, and how do
 - Channels with a large and engaged audience tend to earn more (subscribers, views, uploads).
 - Regularly uploading new content can help channels maintain audience interest, improve visibility in YouTube's algorithm, and increase overall watch time.
 - A large subscriber base indicates a loyal audience that is likely to engage with the channel's content and leads to higher earnings.
+
+## How to Use
+
+1. Clone this repository to your local machine using Git.
+git clone
+2. Explore the Analysis 'Youtube_Metrics.pbix' to understand the data processing and visualization.
